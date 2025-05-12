@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👨‍💻</h1>
 
 <p align="center">
-  Backend Developer focado em escalabilidade, automações e integrações robustas com APIs.
+  Fullstack Developer focado em escalabilidade, automações e integrações com APIs.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Venha+conhecer+o+poder+da+automação;Python+%7C+PHP+%7C+RabbitMQ+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;venha+conhecer+o+poder+da+automação;Python+%7C+PHP+%7C+RabbitMQ+%7C+MySQL" alt="Typing SVG" />
 </p>
 
 ---
