@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+Laravel;Apaixonado+por+automação+e+dados;Python+%7C+PHP+%7C+RabbitMQ+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Venha+conhecer+o+poder+da+automação;Python+%7C+PHP+%7C+RabbitMQ+%7C+MySQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 📫 Contato
 
 - 📧 Email: **ruan.zuchara@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/ruan-zuchara](https://www.linkedin.com/in/ruanzuchara/)
+- 💼 LinkedIn: [linkedin.com/in/ruanzuchara](https://www.linkedin.com/in/ruanzuchara/)
 
 ---
 
